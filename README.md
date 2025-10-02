@@ -1,5 +1,6 @@
 # 💫 About Me:
-Motivated and detailed oriented BCA student with a foundation in programming languages including C, Java, Python. Known for strong analytical thinking, problem-solving skills, and a passion for learning new technologies.Seeking opportunities to apply technical knowledge in real-world projects. Highly organized and active student with good communications skills and good ethic. Prove ability to work in team environments,
+Motivated and detailed oriented BCA student with a foundation in programming languages including C, Java, Python. Known for strong analytical thinking, problem-solving
+skills, and a passion for learning new technologies.Seeking opportunities to apply technical knowledge in real-world projects.Highly organized and active student with good communications skills and good ethic. Prove ability to work in team environments.
 
 
 ## 🌐 Socials:
